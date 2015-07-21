@@ -36,6 +36,3 @@
     background: url("../img/arrow-down.svg") no-repeat center center;
     background-size: 20px 20px;
 }
-.woocommerce.widget .product-categories li ul.children li.current-cat {
-    font-weight: bold;
-}

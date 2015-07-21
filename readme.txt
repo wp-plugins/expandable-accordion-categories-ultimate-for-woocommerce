@@ -15,8 +15,7 @@ Change annoying long WooCommerce categories lists with different levels of sub-e
 This plugin allow you to easy and automatically change annoying long WooCommerce categories lists with different levels of sub-elements to expandable categories menu:
 
 *   Just activate and it work automatically, No Settings required!
-*   Multilevel categories support
-*   Plugin work with ANY theme that support WooCommerce
+*   Plugin work with most of all themes that support WooCommerce
 *   Does not change your theme styles for widget
 *   Optimized for Extra fast work, not slow down your website
 *   Use SVG images for Retina support and extra fast loading speed
@@ -28,7 +27,10 @@ This is a Free light version of Ultimate WooCommerce Expandable Categories Plugi
 [Purchase PRO version](http://codecanyon.net/item/ultimate-woocommerce-expandable-categories/12048496/?ref=dedalx "PRO version") to get this amazing features:
 
 *   Multilevel categories support
+*	Highlight active category
 *   Open all parent categories if current category located inside
+*   Plugin work with ANY theme that support WooCommerce
+*	Detailed Documentation guide
 *   Free Plugin updates and dedicated support
 
 = Live Demo =

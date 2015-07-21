@@ -44,7 +44,10 @@ class MGWC {
         <p><?php _e( '<strong>You are using FREE Version of Ultimate WooCommerce Expandable Categories plugin without this additional features:</strong>', 'mgwoocommercecat' ); ?></p>
         <ul>
         	<li>- Multilevel categories support</li>
-        	<li>- Open all parent categories if current category located inside</li>
+        	<li>- Highlight active category</li>
+        	<li>- Plugin work with ANY theme that support WooCommerce</li>
+        	<li>- Open all parent categories if active category located inside</li>
+        	<li>- Detailed Documentation guide</li>
         	<li>- Free Plugin updates and dedicated support</li>
         </ul>
     	<a style="margin:10px 0; display:block;" href="//www.bluehost.com/track/magniumthemes/uwc" target="_blank">
