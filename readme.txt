@@ -1,14 +1,14 @@
 === Plugin Name ===
 Contributors: magniumthemes
 Donate link: http://magniumthemes.com/
-Tags: accordion, categories, expandable, woocommerce, woocommerce brand, plugin, admin, shortcode, sidebar, widget, wordpress, category
+Tags: accordion, categories, expandable, woocommerce, woocommerce brand, plugin, admin, accordion, categories widget, category accordion, expand collapse, category, categories widget, expand collapse, toggle accordion, toggle product categories, woocommerce collapsing categories, woocommerce product categories list, wordpress category accordion
 Requires at least: 3.5
 Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Change annoying long WooCommerce categories lists with different levels of sub-elements to expandable categories menu.
+Change WooCommerce Categories Widget to expandable categories menu with unlimited subcategories levels inside. Work with ANY theme!
 
 == Description ==
 
